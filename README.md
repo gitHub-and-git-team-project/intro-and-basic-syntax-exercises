@@ -1,2 +1,2 @@
-# intro-and-basic-syntax-exercises
+# programming-fundamentals
 GitHub practise as part of a Software Technologies activity
