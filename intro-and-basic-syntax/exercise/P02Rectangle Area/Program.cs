@@ -6,11 +6,14 @@ namespace Problem_2_RectangleArea
     {
         static void Main()
         {
+            // We receive the 2D rectangle properties
             double width = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
 
+            // We calculate the rectangle 2D area
             double area = width * height;
 
+            // We write on the console the result, rounded to the second decimal number
             Console.WriteLine($"{area:f2}");
         }
     }
