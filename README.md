@@ -64,6 +64,17 @@ examples below for the appropriate formatting.
 0812
   0321 0123 0022
   
+  Problem 03. Miles to Kilometers
+  ===============================
+Write a program, which converts miles to kilometers. Format the output to the 2nd decimal place.
+Note: 1 mile == 1.60934 kilometers
+
+| input         | output         
+| ------------- |:-------------:|
+| 60            | 96.56         |
+| 1             | 1.61          |
+| 52.1113       | 83.86         |
+
   
   Problem 5 Character stars
 
