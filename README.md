@@ -126,12 +126,12 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 #### Examples
 
 
-|**Input**		|	**Output**		|
-|-----------------------|-------------------------------|
-|Mayro			|Name: Mayro			|
-|5			|Health: \\||||||.....|		|
-|10			|Energy: \\||||||||||.|		|
-|9			|				|
+|**Input**		|	**Output**			|
+|-----------------------|---------------------------------------|
+|Mayro			|Name: Mayro				|
+|5			|Health: \|\|\|\|\|\|\.\.\.\.\.\|	|
+|10			|Energy: \|\|\|\|\|\|\|\|\|\|\.\|	|
+|9			|					|
 |10			
  
 
