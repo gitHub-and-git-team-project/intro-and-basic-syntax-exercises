@@ -37,6 +37,7 @@ floating point numbers on the console, **formatted to the 2nd character after th
 #### Examples
 
 | **Input**	| **Output**	|
+| ------------- |:-------------:|
 |2		|14.00		|
 |7		|		|
 |7		|56.00		|
@@ -126,12 +127,12 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 #### Examples
 
 
-|**Input**		|	**Output**			|
-|-----------------------|---------------------------------------|
-|Mayro			|Name: Mayro				|
-|5			|Health: \|\|\|\|\|\|\.\.\.\.\.\|	|
-|10			|Energy: \|\|\|\|\|\|\|\|\|\|\.\|	|
-|9			|					|
+|**Input**		|	**Output**		|
+|-----------------------|-------------------------------|
+|Mayro			|Name: Mayro			|
+|5			|Health: `` `||||||.....|` ``	|
+|10			|Energy: `` `||||||||||.|` ``	|
+|9			|				|
 |10			
  
 
