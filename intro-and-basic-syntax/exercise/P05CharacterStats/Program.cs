@@ -22,8 +22,8 @@ namespace Problem05_CharacterStats
 
             /* We calculate and display the information about the characters
              * health and energy */
-            Console.WriteLine($"Health: |{new string('|',currentHealth)}{new string('.', maximumHealth - currentHealth)}|");
-            Console.WriteLine($"Energy: |{new string('|',currentEnergy)}{new string('.', maximumEnergy - currentEnergy)}|");
+            Console.WriteLine($"Health: |{new string('|', currentHealth)}{new string('.', maximumHealth - currentHealth)}|");
+            Console.WriteLine($"Energy: |{new string('|', currentEnergy)}{new string('.', maximumEnergy - currentEnergy)}|");
 
         }
     }
