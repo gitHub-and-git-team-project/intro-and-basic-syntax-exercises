@@ -16,12 +16,16 @@ examples below for the appropriate formatting.
 |433		|			|
 |1		|			|
 |5331		|			|
-|		|			|	
+
+| **Input**	| **Output**	
+| ------------- |:---------------------:|	
 |9182		|9182 4221 0012 0003	|
 |4221		|			|
 |12		|			|
 |3		|			|
-|		|			|
+
+| **Input**	| **Output**	
+| ------------- |:---------------------:|
 |812		|0812 0321 0123 0022	|
 |321		|			|
 |123		|			|
@@ -42,10 +46,14 @@ floating point numbers on the console, **formatted to the 2nd character after th
 | ------------- |:-------------:|
 |2		|14.00		|
 |7		|		|
-|		|		|
+
+| **Input**	| **Output**	|
+| ------------- |:-------------:|
 |7		|56.00		|
 |7		|		|
-|		|		|
+
+| **Input**	| **Output**	|
+| ------------- |:-------------:|
 |12.33		|61.65		|
 |5		|		|
 
@@ -59,7 +67,7 @@ floating point numbers on the console, **formatted to the 2nd character after th
 Write a program, which converts miles to kilometers. Format the output to the 2nd decimal place.
 Note: 1 mile == 1.60934 kilometers
 
-| input         | output         
+| **Input**	| **Output**	
 | ------------- |:-------------:|
 | 60            | 96.56         |
 | 1             | 1.61          |
@@ -135,7 +143,7 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |-----------------------|-------------------------------
 |Mayro			|Name: Mayro			
 |5			|Health: \| \| \| \| \| \| \. \. \. \. \. \|
-|10			|Energy: \|\|\|\|\|\|\|\|\|\|\.\|	
+|10			|Energy: \| \| \| \| \| \| \| \| \| \| \. \|	
 |9							
 |10			
  
@@ -143,8 +151,8 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |**Input**		|	**Output**		
 |-----------------------|-------------------------------
 |Bauser			|Name: Bauser			
-|10			|Health: \|\|\|\|\|\|\|\|\|\|\|\|
-|10			|Energy: \|\|\|\|\|\|\|\|\|\|\|\|
+|10			|Health: \| \| \| \| \| \| \| \| \| \| \| \|
+|10			|Energy: \| \| \| \| \| \| \| \| \| \| \| \|
 |10							
 |10		
 
@@ -153,8 +161,8 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |**Input**		|	**Output**			
 |-----------------------|-------------------------------	
 |Loogi			|Name: Loogi				
-|8			|Health: \|\|\|\|\|\|\|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\|
-|20			|Energy: \|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\|		
+|8			|Health: \| \| \| \| \| \| \| \| \| \. \. \. \. \. \. \. \. \. \. \. \. \|
+|20			|Energy: \| \| \| \. \. \. \. \. \. \. \. \. \. \. \. \|		
 |2								
 |14	
 
@@ -163,8 +171,8 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |**Input**		|	**Output**		
 |-----------------------|-------------------------------
 |Toad			|Name: Toad			
-|0			|Health: \|\.\.\.\.\.\|		
-|5			|Energy: \|\.\.\.\.\.\.\.\.\.\.\|
+|0			|Health: \| \. \. \. \. \. \|		
+|5			|Energy: \| \. \. \. \. \. \. \. \. \. \. \|
 |0							
 |10		 
 
