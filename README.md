@@ -78,8 +78,7 @@ Note: 1 mile == 1.60934 kilometers
 
 
 
-### Problem 4.                 
-Beverage Labels
+ Problem 4. Beverage Labels
 
 Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
 for the **given volume** and print them
@@ -102,44 +101,40 @@ Sugar content – **real number**, **suffixed** by “**g**” (e.g. “**30g**�
 
  
 
-**Input**				**Output**
- 
-
-[Nuka-Cola]()			220ml Nuka-Cola:
-  
-220				660kcal,  154g sugars
-
-300
-
-70
+|**Input**		|	**Output**		|
+|-----------------------|:-----------------------------:|
+|Nuka-Cola		|220ml Nuka-Cola:		|
+|220			|660kcal,  154g sugars		|
+|300			|				|
+|70			|				|
 
  
 
- 
-**Input**				**Output**
+|**Input**		|	**Output**		|
+|-----------------------|:-----------------------------:|
+|Ice Cold Nuka-Cola	|250ml Ice Cold Nuka-Cola:	|
+|250			|875kcal, 162.5g sugars		|
+|350			|				|
+|65			|				|
 
 
-Ice Cold Nuka-Cola		250ml Ice Cold Nuka-Cola:
 
-250				875kcal, 162.5g sugars
-
-350
-
-65
-
- 
+|**Input**		|	**Output**		|
+|-----------------------|:-----------------------------:|
+|Nuka-Cola Quantum	|350ml Nuka-Cola Quantum:	|
+|350			|2100kcal, 490g sugars		|
+|600			|				|
+|140			|				|
 
 
-**Input**				**Output**
+
+		
 
 
-Nuka-Cola Quantum		350ml Nuka-Cola Quantum:
 
-350				2100kcal, 490g sugars
 
-600
 
-140
+
 
  
 
