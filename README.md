@@ -139,19 +139,19 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |**Input**		|	**Output**		|
 |-----------------------|-------------------------------|
 |Bauser			|Name: Bauser			|
-|10			|Health: \*||||||||||||\*	|
+|10			|Health: `||||||||||||`		|
 |10			|Energy: \*||||||||||||\*	|
 |10			|				|
 |10		
 
  
 
-|**Input**		|	**Output**		|
-|-----------------------|-------------------------------|
-|Loogi			|Name: Loogi			|
-|8			|Health: |||||||||............|	|
-|20			|Energy: |||............|	|
-|2			|				|
+|**Input**		|	**Output**			|
+|-----------------------|-------------------------------	|
+|Loogi			|Name: Loogi				|
+|8			|Health: \|||||||||............|\	|
+|20			|Energy: "|||............|"		|
+|2			|					|
 |14	
 
 
@@ -159,8 +159,8 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |**Input**		|	**Output**		|
 |-----------------------|-------------------------------|
 |Toad			|Name: Toad			|
-|0			|Health: |.....|		|
-|5			|Energy: |..........|		|
+|0			|Health: '|.....|'		|
+|5			|Energy: '''|..........|'''	|
 |0			|				|
 |10		 
 
