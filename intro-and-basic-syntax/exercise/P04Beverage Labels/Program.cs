@@ -17,12 +17,12 @@ namespace Beverage_Labels
          
 
             //calculations
-            var calories = (double)energy * volume / 100;
-            var sugars = (double)volume * sugar / 100;
+            var totalCalories = (double)energy * volume / 100;
+            var totalSugar = (double)volume * sugar / 100;
 
             //output data
             Console.WriteLine($"{volume}ml {name}:");
-            Console.WriteLine($"{calories}kcal, {sugars}g sugars");
+            Console.WriteLine($"{totalCalories}kcal, {totalSugar}g sugars");
         }
     }
 }
