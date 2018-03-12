@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Solution gives 100/100 points in Softuni judge system. Checked by Aleksandar Boev
+using System;
 
 namespace Problem05_CharacterStats
 {
