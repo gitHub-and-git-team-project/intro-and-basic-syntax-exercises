@@ -1,4 +1,8 @@
-﻿using System;
+
+
+//The code of problem two works correctly. The result in judge is 100/100 points. The code is tested by Ivan Kirilov.
+
+using System;
 
 namespace Problem_2_RectangleArea
 {
