@@ -1,4 +1,4 @@
-﻿//Solution gives 100/100 points in Softuni judge system. Checked by Aleksandar Boev
+﻿//Solution gives 100/100 points in Softuni judge system after a minor change. Checked by Aleksandar Boev
 using System;
 
 namespace Problem05_CharacterStats
@@ -19,7 +19,7 @@ namespace Problem05_CharacterStats
             int maxEnergy = int.Parse(Console.ReadLine());
 
             // We print the characters name
-            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Name: {player}");
 
             /* We calculate and display the information about the characters
              * health and energy */
