@@ -1,5 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
 
+//The code of problem two works correctly. The result in judge is 100/100 points. The code is tested by Ivan Kirilov.
+
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
