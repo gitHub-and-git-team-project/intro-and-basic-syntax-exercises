@@ -1,3 +1,6 @@
+
+
+//This code is tested in Judge by Ivan Kirilov and works correctly. The result in Judge is 100/100.
 using System;
 
 namespace Problem_2_RectangleArea
