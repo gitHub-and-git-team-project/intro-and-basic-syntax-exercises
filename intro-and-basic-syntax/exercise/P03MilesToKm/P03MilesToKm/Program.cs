@@ -7,7 +7,7 @@ namespace ProductCalculations
         static void Main(string[] args)
         {
             // We receive the value in miles
-            double miles = double.Parse(Console.ReadLine());
+            double milesValue = double.Parse(Console.ReadLine());
             // We calculate the value in kilometers
             double kilometers = miles * 1.60934;
             //We print on the console the result
