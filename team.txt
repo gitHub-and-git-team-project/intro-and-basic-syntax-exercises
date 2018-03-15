@@ -1,4 +1,4 @@
-“{github username1} – {softuni username1}”
-“{github username2} – {softuni username2}”
+﻿“{github username1} – {softuni username1}”
+geue77 – geue_77
 IvanKirilov – IvanMilchevKirilov
 “{github username4} – {softuni username4}”
